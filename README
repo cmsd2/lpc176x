@@ -1,0 +1,8 @@
+LPC176x
+=======
+
+This is a minimal schematic for the NXP LPC1768 Arm Cortex M3
+
+It has a 10 pin SWD header for testing and programming,
+voltage supply watchdog, rtc and main clock crystal oscillators
+and decoupling capacitors for the power supply pins.
